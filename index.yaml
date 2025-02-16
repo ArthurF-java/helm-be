@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  beproject:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2025-02-16T16:18:59.59070299Z"
+    description: A Helm chart for deploying the beproject Spring Boot application
+    digest: 943e78ffb1c4d0a5feb31e636e8396ccb7299692fcb34d7e6862667ccabd428d
+    name: beproject
+    urls:
+    - https://arthurf-java.github.io/helm-be/dev/beproject-1-dev-01286821feca2ddcf97d186c17929f804f36b329.tgz
+    version: 1-dev-01286821feca2ddcf97d186c17929f804f36b329
+generated: "2025-02-16T16:18:59.589038157Z"
