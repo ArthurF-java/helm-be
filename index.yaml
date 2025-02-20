@@ -3,7 +3,7 @@ entries:
   beproject:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.820289358Z"
+    created: "2025-02-20T08:51:45.425287112Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: 3a160c9432b407179169b178590a34953e7c02bf73c27d6349b1724a304f5be7
     name: beproject
@@ -12,7 +12,7 @@ entries:
     version: 1-test-d7bd680516740192d665e5f9dd339c9c48f2eade
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.820065922Z"
+    created: "2025-02-20T08:51:45.425060617Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: f813b5a24949e6c848f20c50453042fcebb03d1486ac3592ff48a112b7b3e0d3
     name: beproject
@@ -21,7 +21,7 @@ entries:
     version: 1-test-d50e73bab18f648c5deb20ddbe139e53761f69d4
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.819842475Z"
+    created: "2025-02-20T08:51:45.424832459Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: 324144c9f2c576a8d1c2778144e43f561081eba23c2f99805d7335c7aa31ebdb
     name: beproject
@@ -30,7 +30,7 @@ entries:
     version: 1-test-c609f026ec08d70488013e6b6826453718abef0f
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.819615713Z"
+    created: "2025-02-20T08:51:45.424569766Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: 35e7c7a1a219a7e29195d469c8876eacb0ff67d6cb3541c5bd194a03230e203b
     name: beproject
@@ -39,7 +39,7 @@ entries:
     version: 1-test-c1849b111a541fcb8e5ccd3d3bc8379ed232eec1
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.819385633Z"
+    created: "2025-02-20T08:51:45.42434326Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: 0cca9000f8bb90a073ce42cb3a08ce602b9de1c4afafe99d5d86cddb54f2e011
     name: beproject
@@ -48,7 +48,7 @@ entries:
     version: 1-test-b1ebe5ed1296e4170c76e90b33f278cc6d32ebbc
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.819133203Z"
+    created: "2025-02-20T08:51:45.424115012Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: 30dcfd225e125e4b2c1427f2a3c639ffbf4f054cca101e271d7b0ef007dbee89
     name: beproject
@@ -57,7 +57,7 @@ entries:
     version: 1-test-9e0b46e51958baccceeb23b165801c96abdf7667
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.818883417Z"
+    created: "2025-02-20T08:51:45.423858821Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: 1ad79f6fb637a4d384adc61f37a025a5c9d16d7d32dec0d166950492d6d94991
     name: beproject
@@ -66,7 +66,7 @@ entries:
     version: 1-test-9b7f77a1c1458180aebf39a49007b42119bede46
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.818642749Z"
+    created: "2025-02-20T08:51:45.423592Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: 01b7d729df571b7ef9a5b6274dcfd3d48a657d49a2f4688dee24b69e36f527ee
     name: beproject
@@ -75,7 +75,16 @@ entries:
     version: 1-test-92972245dd790148fe2a4e31c223da1f798c258f
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.818392072Z"
+    created: "2025-02-20T08:51:45.42331464Z"
+    description: A Helm chart for deploying the beproject Spring Boot application
+    digest: 3f26f48e13c2c6810022b22ec03ba9a203144ef908666b4a66fc3f64f414173d
+    name: beproject
+    urls:
+    - https://arthurf-java.github.io/helm-be/test/beproject-1-test-7f66b07434452715f021217d843337495a923959.tgz
+    version: 1-test-7f66b07434452715f021217d843337495a923959
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2025-02-20T08:51:45.423085009Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: 157969ba90c9846e9f823bc6d51d6ac93336f447d0e29d1b5591705ec7fed720
     name: beproject
@@ -84,7 +93,7 @@ entries:
     version: 1-test-7e4cc831dbab62c9431e100b4458610a59d2920f
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.818117249Z"
+    created: "2025-02-20T08:51:45.422854486Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: 9ddf31aa801bd0813ca4de3b3776986ef551a4c19edd47b2b471e0c1ac80a97c
     name: beproject
@@ -93,7 +102,7 @@ entries:
     version: 1-test-7cffd246bea1a38199a66ac241e8eb032e6cf6de
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.817865199Z"
+    created: "2025-02-20T08:51:45.422607953Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: 163bed800a1bb757e60e74b29513d7e98f563d868af27de04f7bea3dbb1c82a6
     name: beproject
@@ -102,7 +111,7 @@ entries:
     version: 1-test-7488dc86a4150120b8cd082cb6a3cc10e13de737
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.817582272Z"
+    created: "2025-02-20T08:51:45.422379114Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: d70033d2303986391bb53dedb5a46fae115999c4504c5e3e26eb9a883506fcc4
     name: beproject
@@ -111,7 +120,7 @@ entries:
     version: 1-test-5d8b14ffe7614e5db28ec50818025a5cca22e124
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.816956808Z"
+    created: "2025-02-20T08:51:45.422148722Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: e446e4a1a208bb9e8d69bc9b45cbdbdc9e939f0752c87ae26208b26b96b95718
     name: beproject
@@ -120,7 +129,7 @@ entries:
     version: 1-test-5203fb0b3975ff28432d978188228c6c6f394041
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.816246053Z"
+    created: "2025-02-20T08:51:45.421912648Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: 29520a42ddc7db1a2a7c36d3278c7a3afa15dac9356cb9323d6c0c3881d4a1d1
     name: beproject
@@ -129,7 +138,7 @@ entries:
     version: 1-test-4fcb258473c34a2f7cb7fb3ef998afc7f484f00b
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.816024821Z"
+    created: "2025-02-20T08:51:45.42166294Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: 8ad7c99129763531bfd98c72fbcff25c009655c19b5147daa3358621fc8f94f5
     name: beproject
@@ -138,7 +147,7 @@ entries:
     version: 1-test-4c788096e6eb4520098bb30274bde906c82f0a07
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.815802727Z"
+    created: "2025-02-20T08:51:45.421425875Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: 7ebd157f978539de386fa5a6bc2235edb06de915115f08e6abe5d31003f341f9
     name: beproject
@@ -147,7 +156,7 @@ entries:
     version: 1-test-3bbd2ee92cedd1b79e5b572612fdd7a43dfb2a5e
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.815577737Z"
+    created: "2025-02-20T08:51:45.421184001Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: 1e1fa9f26c81ccd3a6ceb37f199244d917ae845f465a86d8b949509b8c9c5288
     name: beproject
@@ -156,7 +165,7 @@ entries:
     version: 1-test-16b3de70215fa7cf09cf18018900bb18bb685e4f
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.815349211Z"
+    created: "2025-02-20T08:51:45.420933871Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: 8f1f735bce118ae8b901e6a164a91c7799becd6d7cbd19024e2e656be112fd76
     name: beproject
@@ -165,7 +174,7 @@ entries:
     version: 1-prod-dd84e3bed7da4fca1235d248aeec1aafcc2324bb
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.815097202Z"
+    created: "2025-02-20T08:51:45.42061892Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: 2c115847735478d87d7c8897b55f5c1a0221c82c4e8848a4d16255b2773358b9
     name: beproject
@@ -174,7 +183,7 @@ entries:
     version: 1-prod-d50e73bab18f648c5deb20ddbe139e53761f69d4
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.814873274Z"
+    created: "2025-02-20T08:51:45.419884023Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: e717f2ba2fefeadede39dc9ca9396529551723abd2c2e6853eb1ab2b885ed9f5
     name: beproject
@@ -183,7 +192,7 @@ entries:
     version: 1-prod-c866641cc47a1984591b170f0f1539d2d9f44526
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.814643015Z"
+    created: "2025-02-20T08:51:45.419222502Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: 1cbf7ce5a1025bb359062a8363d27d5d2156f71e8a650d5d4c595efbd588ce88
     name: beproject
@@ -192,7 +201,7 @@ entries:
     version: 1-prod-a87fe159dbc09866170c446020762dd523d234ce
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.814411012Z"
+    created: "2025-02-20T08:51:45.418988903Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: b47a018dcfc71ea55207c59b4aeaf50bc8a40b0e19302d730c07f9e080a454f8
     name: beproject
@@ -201,7 +210,7 @@ entries:
     version: 1-prod-a832614e5671f9208e53937a6670993dfdd4704a
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.814162709Z"
+    created: "2025-02-20T08:51:45.418759873Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: 35e84fc006d905ba91421230ea5859a11de52ca5102cebf4b2259401c1cabe53
     name: beproject
@@ -210,7 +219,7 @@ entries:
     version: 1-prod-a491b6fcd14a8c2b3e9b9d8e124e4c68c213d6ad
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.81391624Z"
+    created: "2025-02-20T08:51:45.41851836Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: 160a61f2830ce20b47fa2cb4383019fde05cae7ed75fc77faee08ca281389cbe
     name: beproject
@@ -219,7 +228,7 @@ entries:
     version: 1-prod-9f624ed6c8167d55464de0cd28e79f270c7a53fa
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.813671584Z"
+    created: "2025-02-20T08:51:45.418293348Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: 47bdb48a3d447851203d6ca248fecdc07e5de79c9667a0306f675b7832af9a1f
     name: beproject
@@ -228,7 +237,7 @@ entries:
     version: 1-prod-7cffd246bea1a38199a66ac241e8eb032e6cf6de
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.813442246Z"
+    created: "2025-02-20T08:51:45.418063777Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: cdc98cdcbd600f44e05f69982caf0aeaedac92e2c3976cb3468618ce556a0dec
     name: beproject
@@ -237,7 +246,7 @@ entries:
     version: 1-prod-71c9b1cb114bd32e9a5e5940fbee0c873bbddb04
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.81318105Z"
+    created: "2025-02-20T08:51:45.417834286Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: bcf23b83a48b7f1bc7d0965377dc7bbe9d9ae743f9bf9c0ee69446d7c5886abb
     name: beproject
@@ -246,7 +255,7 @@ entries:
     version: 1-prod-693c7d70f33ebc91587dc2437090d14e708898fa
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.812945721Z"
+    created: "2025-02-20T08:51:45.417584017Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: c54a94abe85ed44ebed8ef003c885593d00e63d26d6ceb8c7cb2d5d8620e6c94
     name: beproject
@@ -255,7 +264,7 @@ entries:
     version: 1-prod-5203fb0b3975ff28432d978188228c6c6f394041
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.812713238Z"
+    created: "2025-02-20T08:51:45.417357562Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: 3f2a96811517b020a6e6437b85a50563fa7c9ffa30fc9d26d9aa329b50f748c1
     name: beproject
@@ -264,7 +273,7 @@ entries:
     version: 1-prod-4fcb258473c34a2f7cb7fb3ef998afc7f484f00b
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.812482778Z"
+    created: "2025-02-20T08:51:45.417130706Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: fefaecd9bf800678079e646927b40a22e08cd766ebf71839f69071bd1789bdb8
     name: beproject
@@ -273,7 +282,7 @@ entries:
     version: 1-prod-4c3abbbffe79edb7aed3e12faae78e3e24b73189
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.812213456Z"
+    created: "2025-02-20T08:51:45.416902147Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: 1f2024f5b97bee428ea29e05beb277f1d8ccab85f2ab0f4ec1cb362731ce0c42
     name: beproject
@@ -282,7 +291,7 @@ entries:
     version: 1-prod-471570eb5182b7b71452e1ebe910a463b05c9dea
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.811980772Z"
+    created: "2025-02-20T08:51:45.416650845Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: dd3bc02ef2001105c1bb0ff9ecd7996fdb12fbee0521d5e00c7fcd411a75f10e
     name: beproject
@@ -291,7 +300,7 @@ entries:
     version: 1-prod-3b9f30b7cdea7ab6e60247285128999352d203d4
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.811731437Z"
+    created: "2025-02-20T08:51:45.416419652Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: 191ff9f7b31137ff01c40c85b3663e332bc503f3973a22555ca2a68341db774d
     name: beproject
@@ -300,7 +309,7 @@ entries:
     version: 1-prod-0d4bc6066f879db94a7cf696fcfe74e6798d1855
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.811478957Z"
+    created: "2025-02-20T08:51:45.41618966Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: f9a06abf06c3fe4c93f0d4a37e23f08fc69dd2608a22c0f4e02959940a5b3d4b
     name: beproject
@@ -309,7 +318,7 @@ entries:
     version: 1-dev-f173e874d5a184f25e466f15a219b95e8c25c030
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.810946898Z"
+    created: "2025-02-20T08:51:45.415958175Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: c33da31cdd0218e3e3f6503f1d415849579a7c20916db6d36406ab7eb285a05f
     name: beproject
@@ -318,7 +327,7 @@ entries:
     version: 1-dev-f098efbcb1be40376d8bb00d6d57eadeee3c6621
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.81013815Z"
+    created: "2025-02-20T08:51:45.415707284Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: 5249b6bcbc1e5eeb76182d020efe32e0eff86ae41c37be4f1cc3ca8bedc7f9e7
     name: beproject
@@ -327,7 +336,7 @@ entries:
     version: 1-dev-ef674809935803cfb5227aeddd71e556608ed625
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.809915285Z"
+    created: "2025-02-20T08:51:45.415474387Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: 1c90ea661bb5147da1ba56ff5d9e220b117941e4115327d694fec9ace1f198bd
     name: beproject
@@ -336,7 +345,7 @@ entries:
     version: 1-dev-e72e423168790fcd6118ff1189db37a4d93ad58d
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.809691809Z"
+    created: "2025-02-20T08:51:45.41523099Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: 5a9540e4c595e885183e2717794917b02b42bfe6e3f73cbe9cd91643ab0b00cc
     name: beproject
@@ -345,7 +354,7 @@ entries:
     version: 1-dev-e6eff7e0d8419e5a8674d18fd68c7a316a1db3c0
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.809464264Z"
+    created: "2025-02-20T08:51:45.414981362Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: 65294f50ca70abfec8cf8123d987637122eea0bff254e3705948189f1c3f971e
     name: beproject
@@ -354,7 +363,7 @@ entries:
     version: 1-dev-e2f23bbf681cfde55f825612910ee98f74975c76
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.809224658Z"
+    created: "2025-02-20T08:51:45.414709542Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: a8a7454558f6403617cd081067634be77c77f737b2ee0805187ff8455e6c9cfc
     name: beproject
@@ -363,7 +372,7 @@ entries:
     version: 1-dev-e1e2c62322d8c041e69e4927e54feab0e3d4ccc2
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.808999097Z"
+    created: "2025-02-20T08:51:45.41442603Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: 8df19fa6487d239a735b27ccae34c38a70790e50bbcbf17a02ad041b4bd00d58
     name: beproject
@@ -372,7 +381,7 @@ entries:
     version: 1-dev-d50e73bab18f648c5deb20ddbe139e53761f69d4
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.808773426Z"
+    created: "2025-02-20T08:51:45.413791479Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: 7e9dc2eb1f9f1e0632983ca6e5e8c53b23f3411847c34ef763c87ede99201a9c
     name: beproject
@@ -381,7 +390,7 @@ entries:
     version: 1-dev-d28a4ebe400a20d07438db857eaae502805dce20
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.808549139Z"
+    created: "2025-02-20T08:51:45.413135577Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: 842f8a6fcf943c497141da2439795b0ce89b8885a2cf63793117995014edf3a0
     name: beproject
@@ -390,7 +399,7 @@ entries:
     version: 1-dev-cfaf5831e1578e34e6cdd8599d51df46af52b769
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.808285167Z"
+    created: "2025-02-20T08:51:45.412885729Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: 2d31b8c5771218b02ae553180fca7a9c7480c8c8d830eb13efae38cb3e0559cf
     name: beproject
@@ -399,7 +408,7 @@ entries:
     version: 1-dev-c8553679253982cd75b7af9cfff3f209f7d8a708
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.80805618Z"
+    created: "2025-02-20T08:51:45.412620771Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: b2ef2502861da2533f37aca041f1c29551b7d5f4ff4234e1669b4f91c97fc1b7
     name: beproject
@@ -408,7 +417,7 @@ entries:
     version: 1-dev-c4ee03b5d19706ed2861c517b6e78cb0ee65d526
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.807831601Z"
+    created: "2025-02-20T08:51:45.412395408Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: 8437b5dfe82a390d7c748db7a9a7e9d01aa438bd8be448e5d0a6483d5a0544a4
     name: beproject
@@ -417,7 +426,7 @@ entries:
     version: 1-dev-c1f2910436bfa121ab25f34f56e091cfbf2ba1cf
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.807595942Z"
+    created: "2025-02-20T08:51:45.412162882Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: 947dd7856843221c67f584fa8759b8b7eb743cf58f7d7993a8b0ae822895eb30
     name: beproject
@@ -426,7 +435,7 @@ entries:
     version: 1-dev-b742301c3f544e31a8d218dd68db6c23df495eb4
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.80735888Z"
+    created: "2025-02-20T08:51:45.411909226Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: 282931a85bbf12db4ce39909f25710c1bb8e00db5d2f38fc2d43c3867b29ccd0
     name: beproject
@@ -435,7 +444,7 @@ entries:
     version: 1-dev-b7397be7f6f4e15a4f04cef2bdebac5c5eef8d48
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.807117089Z"
+    created: "2025-02-20T08:51:45.411662323Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: 003c9241bb24bc56104b37ca9d908eb0453b8668870c43b74cabb809fc9c1a83
     name: beproject
@@ -444,7 +453,7 @@ entries:
     version: 1-dev-b1ebe5ed1296e4170c76e90b33f278cc6d32ebbc
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.806888723Z"
+    created: "2025-02-20T08:51:45.411394911Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: b75262f4bfc151f806e3fc075a172929f69a908f9675c4490c603091178588a7
     name: beproject
@@ -453,7 +462,7 @@ entries:
     version: 1-dev-ab3c9baa7b2fd624c40b7464e4794886265a18cf
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.806657873Z"
+    created: "2025-02-20T08:51:45.411075642Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: 633b0248d842202d90c8ef7ae2114d4d33173f97b464532792e77f0d7eda39c7
     name: beproject
@@ -462,7 +471,7 @@ entries:
     version: 1-dev-9b7f77a1c1458180aebf39a49007b42119bede46
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.806424218Z"
+    created: "2025-02-20T08:51:45.410846782Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: 908460cdd3737763473140596c62fbf378b78c9bebb931b1ee5f89f31c7e5a77
     name: beproject
@@ -471,7 +480,7 @@ entries:
     version: 1-dev-95010cf40fd2d76101aeda915f65118a1defae74
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.806164273Z"
+    created: "2025-02-20T08:51:45.410585952Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: a91682630a3a42337756a9b9e5319222e4b341ccb4ac8b2aa9efcee118379dbc
     name: beproject
@@ -480,7 +489,7 @@ entries:
     version: 1-dev-9111586c97e25d4e167494979dfd6d21f9f77842
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.805925317Z"
+    created: "2025-02-20T08:51:45.410330623Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: cd90f048a217ac45f1b5aeb3e6bd04eaeee4ecb4614382450550afa80d4077e6
     name: beproject
@@ -489,7 +498,7 @@ entries:
     version: 1-dev-8ea81b6ddb3a0b86aaa53780e7e758d476b48660
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.805678237Z"
+    created: "2025-02-20T08:51:45.410092145Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: 1099f0d9bde767899a8ba1075e2f1dfccd684e1052c3cc6c50212ab7b04acec9
     name: beproject
@@ -498,7 +507,7 @@ entries:
     version: 1-dev-8c4018e247d633fac0bc1c29e4aed5b89f91c228
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.805414475Z"
+    created: "2025-02-20T08:51:45.409849931Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: 515bdb1fe373de1a7ba61a4d77e05d70a4394ef5733f3c8ddb8b2b908006fe76
     name: beproject
@@ -507,7 +516,7 @@ entries:
     version: 1-dev-7cffd246bea1a38199a66ac241e8eb032e6cf6de
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.804839289Z"
+    created: "2025-02-20T08:51:45.409555488Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: 538225db34a767e9bdf3e231621528d435061f0c891884a4495e1b23af6429ce
     name: beproject
@@ -516,7 +525,7 @@ entries:
     version: 1-dev-6fa0da45aca8670b56759ee72f37e6b8e4cd0ff8
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.804118875Z"
+    created: "2025-02-20T08:51:45.409317992Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: a23977cb2cf577f68f23ce7a19e33683b32d24f6aeb1de3e96a2d9b60ac50034
     name: beproject
@@ -525,7 +534,7 @@ entries:
     version: 1-dev-6e2807dba577076a089ef19a677f5f68742a7837
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.803888526Z"
+    created: "2025-02-20T08:51:45.409069747Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: cb59b6a605df340a7d8d83df663f3c1ca8e69b8898c4aac2466eff05a5bedd29
     name: beproject
@@ -534,7 +543,7 @@ entries:
     version: 1-dev-6460c2b7c89ac37430f65490a7b8f5f79473f52f
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.803659069Z"
+    created: "2025-02-20T08:51:45.408807665Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: 2405b40adf4882c306c21e69947b77a2cb6524f6a6ffd589bd0fd0035c257174
     name: beproject
@@ -543,7 +552,7 @@ entries:
     version: 1-dev-5c3f4b66e51fa8341487654d2a008a6cce3e8977
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.803423018Z"
+    created: "2025-02-20T08:51:45.408489738Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: 2e02b3aba7c7d4efb615ff3f3bf865488ac48c18ff28cf866a3ab3ee081c86cd
     name: beproject
@@ -552,7 +561,7 @@ entries:
     version: 1-dev-57054a7dc89fe17c06afa27fe9075798fcddf8d4
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.803159728Z"
+    created: "2025-02-20T08:51:45.408200686Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: 2b6546a3c8da0dd303f61a7002f41985e6bc334371ce78baeae6a5cad0e52810
     name: beproject
@@ -561,7 +570,7 @@ entries:
     version: 1-dev-550126950ffc9acfbe58762a53f3456cea3c69f2
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.802924229Z"
+    created: "2025-02-20T08:51:45.407591312Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: fc4b24fbf895966b02b58cb6c6b7528370d4083008ee109b7f3f9821445ab01f
     name: beproject
@@ -570,7 +579,7 @@ entries:
     version: 1-dev-5203fb0b3975ff28432d978188228c6c6f394041
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.802686726Z"
+    created: "2025-02-20T08:51:45.406865149Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: e8703274661d5d065438f01de40b5ca405fd7730aad393f3120f97952fdb2cca
     name: beproject
@@ -579,7 +588,7 @@ entries:
     version: 1-dev-4fcb258473c34a2f7cb7fb3ef998afc7f484f00b
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.802451127Z"
+    created: "2025-02-20T08:51:45.406607075Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: 07d0f3554bf179399238e580e3accf6891f091bd5026d8b9427e7abf71272a1a
     name: beproject
@@ -588,7 +597,7 @@ entries:
     version: 1-dev-4d0f95c60bb94e58ea5e116da067ba1e127757c4
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.80216853Z"
+    created: "2025-02-20T08:51:45.406379568Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: f1e63c14b5d6c6d21410d93053b0dbe6fbd57f4f46e66027a7ba0d5ffeb1fd33
     name: beproject
@@ -597,7 +606,7 @@ entries:
     version: 1-dev-41e217cb0ddfd85ff21a3dfd4bf461bed571ac4e
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.801938411Z"
+    created: "2025-02-20T08:51:45.406137193Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: f7b5ea4cf83f7ad17bd59ae49cedf533c58acc25064fce3ceec9cdf7721f8620
     name: beproject
@@ -606,7 +615,7 @@ entries:
     version: 1-dev-3d761227e88c423ce5a82e9969ab55d928e7ecff
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.801698714Z"
+    created: "2025-02-20T08:51:45.405882335Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: d9280677fa7426994e8ba7f398ff306ee4589c7ed44a0de412fc7b24fc113da3
     name: beproject
@@ -615,7 +624,7 @@ entries:
     version: 1-dev-24ad0299576f60b65d161ebb0015ef6d8229510e
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.801457946Z"
+    created: "2025-02-20T08:51:45.405614171Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: e68d5199ee7bb08369b4823dca737a93358a57ddfb35070f49dec4f20992b992
     name: beproject
@@ -624,7 +633,7 @@ entries:
     version: 1-dev-1c3cf24548f1eb78a6f3d13c008e11280be3d20e
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.801195045Z"
+    created: "2025-02-20T08:51:45.405363781Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: 45b4725a55701420b8ed155eb5e5009be48987b84c585b3f30567216ce8e7da9
     name: beproject
@@ -633,7 +642,7 @@ entries:
     version: 1-dev-195696da574e5730a0a3caf912df5d65495faf61
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.800942865Z"
+    created: "2025-02-20T08:51:45.405126476Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: e41a25d5252ca4f388aefc0f2f7d431e50d99fa72a9ff5ac806d0be03bc97290
     name: beproject
@@ -642,7 +651,7 @@ entries:
     version: 1-dev-16b3de70215fa7cf09cf18018900bb18bb685e4f
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.800669857Z"
+    created: "2025-02-20T08:51:45.40485712Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: b50b5a65fc7d109d4eb6397f60d1a4973e132b03d5678b072ce6f8d27f04db70
     name: beproject
@@ -651,11 +660,11 @@ entries:
     version: 1-dev-12f84f9f69af2e86cefa90b6347c9a417ffd6aa6
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-02-20T08:40:56.800390756Z"
+    created: "2025-02-20T08:51:45.404517493Z"
     description: A Helm chart for deploying the beproject Spring Boot application
     digest: 943e78ffb1c4d0a5feb31e636e8396ccb7299692fcb34d7e6862667ccabd428d
     name: beproject
     urls:
     - https://arthurf-java.github.io/helm-be/dev/beproject-1-dev-01286821feca2ddcf97d186c17929f804f36b329.tgz
     version: 1-dev-01286821feca2ddcf97d186c17929f804f36b329
-generated: "2025-02-20T08:40:56.799812869Z"
+generated: "2025-02-20T08:51:45.404115568Z"
